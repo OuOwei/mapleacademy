@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
             targetDateInput.disabled = true;
         }
     });
-
+ 
     useTargetDateCheckbox.addEventListener('change', function() {
         targetDateInput.disabled = !this.checked;
         if (this.checked) {
