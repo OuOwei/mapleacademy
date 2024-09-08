@@ -94,3 +94,4 @@ document.addEventListener('DOMContentLoaded', function() {
         document['getElementById']('result')['innerHTML'] = _0x4c9156;
     });
 });
+ 
